@@ -1,0 +1,1 @@
+int isIllegal(char string[]);
